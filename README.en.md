@@ -6,8 +6,9 @@ The code is based on the [vue-element-admin](https://github.com/PanJiaChen/vue-e
 
 ### Article
 
-Integrated deployment at a glance! too easy? Then by the way, let's add a storage file service. (一) https://juejin.cn/editor/drafts/7085610213515984926
-Integrated deployment at a glance! too easy? Then by the way, let's add a storage file service. (二) https://juejin.cn/editor/drafts/7086118818799419406
+Integrated deployment at a glance! too easy? Then by the way, let's add a storage file service. (一) https://juejin.cn/post/7087421679160262663
+
+Integrated deployment at a glance! too easy? Then by the way, let's add a storage file service. (二) https://juejin.cn/post/7087426625691713549
 
 ### Grateful
 
