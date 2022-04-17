@@ -10,7 +10,8 @@
     "preview": "vite preview",
     "lint": "eslint --ext js src/",
     "coverage": "jest --coverage",
-    "test": "jest"
+    "test": "jest",
+    "prepare": "husky install"
   },
   "repository": {
     "type": "git",
