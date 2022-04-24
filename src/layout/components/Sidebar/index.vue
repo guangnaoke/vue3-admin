@@ -116,6 +116,16 @@ const isCollapse = computed(() => !appStore.sidebar.opened)
   * {
     vertical-align: middle;
   }
+  .el-tooltip__trigger {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    height: 100%;
+    width: 100%;
+    display: inline-block;
+    box-sizing: border-box;
+    padding: 0px 20px;
+  }
 }
 
 ::v-deep(.el-menu-item) {
